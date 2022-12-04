@@ -78,7 +78,7 @@ const getBadges = () => {
 
 const badgeList = getBadges()
 
-
+console.log("Laura rocks")
 
 let totalPriority2 = 0
 const sumPriorities = () => {
